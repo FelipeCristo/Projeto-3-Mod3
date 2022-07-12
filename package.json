@@ -1,0 +1,29 @@
+{
+  "name": "projeto-3-mod-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeCristo/Projeto-3-Mod-3.git"
+  },
+  "keywords": [],
+  "author": "Felipe Cristo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeCristo/Projeto-3-Mod-3/issues"
+  },
+  "homepage": "https://github.com/FelipeCristo/Projeto-3-Mod-3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
